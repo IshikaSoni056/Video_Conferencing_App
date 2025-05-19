@@ -2,12 +2,6 @@
 
 A scalable Zoom-style video conferencing web application built using **Next.js**, **Clerk**, **GetStream**, and **Tailwind CSS**. ConnectX supports secure meeting creation, scheduling, and real-time participation for 50+ concurrent users with seamless authentication and role-based access.
 
-## 🔗 Live Demo
-
-> Coming Soon...
-
----
-
 ## 🚀 Features
 
 - 🎥 **Zoom-style video meetings** with support for 50+ concurrent users
