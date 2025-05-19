@@ -6,7 +6,6 @@ A scalable Zoom-style video conferencing web application built using **Next.js**
 
 - 🎥 **Zoom-style video meetings** with support for 50+ concurrent users
 - 🔐 **Clerk Authentication** with multi-provider login (Google, GitHub, etc.)
-- 👥 **Role-based Access Control** for hosts, co-hosts, and participants
 - 📅 **Meeting Scheduling & Joining** functionality
 - 💬 **Real-time Chat** during meetings (powered by GetStream)
 - 🌐 **Responsive UI** using Tailwind CSS
@@ -19,21 +18,24 @@ A scalable Zoom-style video conferencing web application built using **Next.js**
 
 | Technology | Purpose |
 |------------|---------|
-| [Next.js](https://nextjs.org/) | React framework for SSR and routing |
-| [Clerk](https://clerk.dev/) | Authentication, session management |
+| [Next.js (TypeScript)](https://nextjs.org/) | React framework with TypeScript support |
+| [Clerk](https://clerk.dev/) | Authentication and session management |
 | [GetStream](https://getstream.io/) | Real-time chat and messaging |
-| [Tailwind CSS](https://tailwindcss.com/) | Utility-first styling |
-| [TypeScript](https://www.typescriptlang.org/) | Type safety (if applicable) |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
+| [TypeScript](https://www.typescriptlang.org/) | Static type-checking for safer code |
 
 ---
 
 ## 📷 Screenshots
 
-![image](https://github.com/user-attachments/assets/6fa30d90-dfa6-4ae9-bb7a-15eb1c170e2d)
-![image](https://github.com/user-attachments/assets/3f69974c-15fd-4760-9d3f-e1ab623121b1)
-![image](https://github.com/user-attachments/assets/eaa7c194-f958-4c0d-8bb7-5ce6f61dee56)
-![image](https://github.com/user-attachments/assets/f21904da-7e32-40f1-bf59-a60d7ddfa6d5)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6fa30d90-dfa6-4ae9-bb7a-15eb1c170e2d" width="45%" />
+  <img src="https://github.com/user-attachments/assets/3f69974c-15fd-4760-9d3f-e1ab623121b1" width="45%" />
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/eaa7c194-f958-4c0d-8bb7-5ce6f61dee56" width="45%" />
+  <img src="https://github.com/user-attachments/assets/f21904da-7e32-40f1-bf59-a60d7ddfa6d5" width="45%" />
+</p>
 
 
 
